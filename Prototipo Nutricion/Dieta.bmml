@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="843" measuredH="593" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="561" y="20" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="614" y="178" w="179" h="32" measuredW="170" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>calendario%26bm%3Bcalendario.bmml%26bm%3Bcalendario.bmml%26bm%3Bcalendario.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C158%2C232%2C190%22%20href%3D%22calendario.bmml%22%20alt%3D%22calendario%22%20id%3D%225%22/%3E</map>
+        <size>16</size>
+        <state>up</state>
+        <text>Dieta%2017-Enero-2015</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::PointyButton" x="599" y="136" w="-1" h="-1" measuredW="86" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <href>Principal%26bm%3BPrincipal.bmml%26bm%3BPrincipal.bmml%26bm%3BPrincipal.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C116%2C124%2C143%22%20href%3D%22Principal.bmml%22%20alt%3D%22Principal%22%20id%3D%226%22/%3E</map>
+        <newLayout>true</newLayout>
+        <text>Regresar</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::iPadPopover" x="592" y="407" w="222" h="101" measuredW="222" measuredH="187" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comida%20%203%3A00%20pm%0A-%201%20Tortilla%0A-%201%20Taza%20de%20arroz%20blanco%0A-%20Zanahoria%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::iPadPopover" x="592" y="210" w="222" h="129" measuredW="222" measuredH="187" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12/11/2014%20%3A%208%3A45%0ADesayuno%0A-%201%20Vaso%20de%20leche%0A-Una%20pieza%20de%20pan%20integral</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::iPadPopover" x="592" y="315" w="222" h="104" measuredW="222" measuredH="187" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12/11/2014%20%3A%2012%3A00%0AColasi%F2n%0A-%201%20dulce</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Link" x="614" y="300" w="-1" h="-1" measuredW="177" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>sugerencias%26bm%3Bsugerencias.bmml%26bm%3Bsugerencias.bmml%26bm%3Bsugerencias.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C280%2C230%2C299%22%20href%3D%22sugerencias.bmml%22%20alt%3D%22sugerencias%22%20id%3D%2215%22/%3E</map>
+        <text>%BFQu%E9%20mas%20puedo%20desayunar%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="614" y="388" w="-1" h="-1" measuredW="151" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFQu%E9%20mas%20puedo%20comer%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="620" y="489" w="-1" h="-1" measuredW="151" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFQu%E9%20mas%20puedo%20comer%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

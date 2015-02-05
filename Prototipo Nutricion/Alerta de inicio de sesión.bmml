@@ -1,0 +1,58 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="825" measuredH="574" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="543" y="1" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Alert" x="572" y="216" w="225" h="142" measuredW="200" measuredH="117" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml%2CPrincipal%26bm%3BPrincipal.bmml%26bm%3BPrincipal.bmml%26bm%3BPrincipal.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2230%2C319%2C140.5%2C356%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%223%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22142.5%2C319%2C253%2C356%22%20href%3D%22Principal.bmml%22%20alt%3D%22Principal%22%20id%3D%223%22/%3E</map>
+        <text>%A1Error%21%0A%A1Debe%20iniciar%20sesi%F3n%0AIniciar%20sesi%F3n%2C%20Ahora%20no</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhone" x="543" y="1" w="282" h="573" measuredW="282" measuredH="573" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::SubTitle" x="570" y="141" w="225" h="-1" measuredW="181" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>32</size>
+        <text>%A1Bienvenido%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="594" y="197" w="179" h="32" measuredW="80" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <state>up</state>
+        <text>Dieta</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="594" y="244" w="179" h="40" measuredW="174" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Tips%20de%20nutrici%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="594" y="299" w="179" h="40" measuredW="148" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Recordatorios</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="594" y="354" w="179" h="40" measuredW="162" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Utencilios%20base</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

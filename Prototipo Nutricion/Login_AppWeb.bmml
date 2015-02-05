@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="859" measuredH="419" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="409" y="19" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="590" y="98" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="453" y="119" w="362" h="238" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="486" y="168" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20de%20usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="613" y="165" w="142" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="613" y="218" w="142" h="-1" measuredW="79" measuredH="26" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="529" y="221" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contrase%F1a</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="605" y="273" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Prototipo_08_10_14%26bm%3BPrototipo_08_10_14.bmml%26bm%3BPrototipo_08_10_14.bmml%26bm%3BPrototipo_08_10_14.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22196%2C254%2C255%2C281%22%20href%3D%22Prototipo_08_10_14.bmml%22%20alt%3D%22Prototipo_08_10_14%22%20id%3D%227%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <text>Entrar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

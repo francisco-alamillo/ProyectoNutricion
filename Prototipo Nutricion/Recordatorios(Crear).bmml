@@ -1,0 +1,68 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="725" measuredH="681" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="443" y="108" w="282" h="573" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="472" y="219" w="226" h="-1" measuredW="184" measuredH="40" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>32</size>
+        <text>Recordatorio</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="491" y="270" w="-1" h="-1" measuredW="186" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>16</size>
+        <text>Nombre%20del%20recordatorio</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="491" y="294" w="186" h="-1" measuredW="125" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>focused</state>
+        <text>Cita%20con%20nutri%F3logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="477" y="386" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>7%2C59%0A8%2C00%0A9%2C01%2C%20AM%0A10%2C02%2C%20PM%0A11%2C03%0A12%2C04%0A1%2C05</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MenuBar" x="491" y="330" w="186" h="29" measuredW="176" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Dia%2C%20%20%20%20%20%20%20Mes%2C%20%20%20%20A%F1o</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::NumericStepper" x="499" y="370" w="-1" h="-1" measuredW="46" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>17</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::NumericStepper" x="560" y="370" w="-1" h="-1" measuredW="49" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>03</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::NumericStepper" x="624" y="370" w="-1" h="-1" measuredW="63" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2014</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="499" y="546" w="178" h="32" measuredW="149" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Recordatorios%26bm%3BRecordatorios.bmml%26bm%3BRecordatorios.bmml%26bm%3BRecordatorios.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2256%2C438%2C234%2C470%22%20href%3D%22Recordatorios.bmml%22%20alt%3D%22Recordatorios%22%20id%3D%2214%22/%3E</map>
+        <size>14</size>
+        <text>A%F1adir%20Recordatorio</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="729" measuredH="650" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="447" y="77" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::iPhonePicker" x="481" y="322" w="-1" h="-1" measuredW="214" measuredH="160" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recordatorio%20%22Cenar%22%0ARecordatorio%20%22Ir%20con%20el%20nutri%F3ligo%22%0AErika%20Te%20ha%20enviado%20solicitud%20de%20amistad%0ARecordatorio%20%22Cenar%22%0AA%20Fernando%20le%20gusta%20tu%20estado%0AA%20Fernando%20le%20gusta%20tu%20foto%0AA%20Fernando%20le%20gusta%20tu%20foto%0AA%20Fernando%20le%20gusta%20tu%20foto</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="481" y="516" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="496" y="516" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GtIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="520" y="518" w="-1" h="-1" measuredW="169" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Login%26bm%3BLogin.bmml%26bm%3BLogin.bmml%26bm%3BLogin.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2273%2C441%2C242%2C463%22%20href%3D%22Login.bmml%22%20alt%3D%22Login%22%20id%3D%228%22/%3E</map>
+        <size>14</size>
+        <text>Deslizar%20para%20desbloquear</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="475" y="194" w="229" h="-1" measuredW="177" measuredH="43" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>04%3A20%20pm</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MediaControls" x="533" y="252" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="658" y="393" w="-1" h="-1" measuredW="10" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Recordatorios%26bm%3BRecordatorios.bmml%26bm%3BRecordatorios.bmml%26bm%3BRecordatorios.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22211%2C316%2C221%2C335%22%20href%3D%22Recordatorios.bmml%22%20alt%3D%22Recordatorios%22%20id%3D%2211%22/%3E</map>
+        <text>Ir</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

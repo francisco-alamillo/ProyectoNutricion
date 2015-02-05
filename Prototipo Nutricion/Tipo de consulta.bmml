@@ -1,0 +1,27 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="746" measuredH="496" mockupW="465" mockupH="496">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="281" y="0" w="465" h="496" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="304" y="90" w="413" h="342" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20consulta</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="350" y="235" w="-1" h="-1" measuredW="121" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Primer%20Consulta_Datos%20de%20paciente%26bm%3BPrimer%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimer%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimer%20Consulta_Datos%20de%20paciente.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C235%2C190%2C262%22%20href%3D%22Primer%2520Consulta_Datos%2520de%2520paciente.bmml%22%20alt%3D%22Primer%20Consulta_Datos%20de%20paciente%22%20id%3D%225%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <text>Primera%20consulta</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="515" y="235" w="-1" h="-1" measuredW="168" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paciente%20con%20expediente</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
