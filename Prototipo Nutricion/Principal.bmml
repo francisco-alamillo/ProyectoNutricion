@@ -16,8 +16,8 @@
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="594" y="197" w="179" h="32" measuredW="80" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>Dieta%26bm%3BDieta.bmml%26bm%3BDieta.bmml%26bm%3BDieta.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C197%2C232%2C229%22%20href%3D%22Dieta.bmml%22%20alt%3D%22Dieta%22%20id%3D%224%22/%3E</map>
+        <href>DietaMovil%26bm%3BDietaMovil.bmml%26bm%3BDietaMovil.bmml%26bm%3BDietaMovil.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C197%2C232%2C229%22%20href%3D%22DietaMovil.bmml%22%20alt%3D%22DietaMovil%22%20id%3D%224%22/%3E</map>
         <size>24</size>
         <state>up</state>
         <text>Dieta</text>
@@ -44,16 +44,7 @@
         <href>Utensilios%20Base%26bm%3BUtensilios%20Base.bmml%26bm%3BUtensilios%20Base.bmml%26bm%3BUtensilios%20Base.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2253%2C354%2C232%2C394%22%20href%3D%22Utensilios%2520Base.bmml%22%20alt%3D%22Utensilios%20Base%22%20id%3D%227%22/%3E</map>
         <size>20</size>
-        <text>Utensilios%20base</text>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="593" y="409" w="179" h="32" measuredW="72" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <href>Iphone%20Principal%26bm%3BIphone%20Principal.bmml%26bm%3BIphone%20Principal.bmml%26bm%3BIphone%20Principal.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2252%2C409%2C231%2C441%22%20href%3D%22Iphone%2520Principal.bmml%22%20alt%3D%22Iphone%20Principal%22%20id%3D%228%22/%3E</map>
-        <size>24</size>
-        <state>up</state>
-        <text>Salir</text>
+        <text>Utencilios%20base</text>
       </controlProperties>
     </control>
   </controls>

@@ -39,5 +39,12 @@
         <text>Agregar%20</text>
       </controlProperties>
     </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="561" y="347" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Prototipo_08_10_14%26bm%3BPrototipo_08_10_14.bmml%26bm%3BPrototipo_08_10_14.bmml%26bm%3BPrototipo_08_10_14.bmml</href>
+        <icon>HomeIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22209%2C335%2C241%2C367%22%20href%3D%22Prototipo_08_10_14.bmml%22%20alt%3D%22Prototipo_08_10_14%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
