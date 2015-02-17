@@ -47,5 +47,15 @@
         <text>Agregar</text>
       </controlProperties>
     </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="457" y="325" w="-1" h="-1" measuredW="111" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Correo%20electr%F3nico</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="573" y="324" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

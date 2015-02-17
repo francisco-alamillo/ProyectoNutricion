@@ -10,9 +10,9 @@
         <text>Detalles%20de%3A%20Francisco%20Alamillo</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="457" y="149" w="275" h="127" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="457" y="149" w="275" h="163" measuredW="275" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>*Nombre%3A%20*%20Francisco%20Alamillo.%0A%20%0A*Edad*%3A%2019%20-%2059%0A%20%0A*Nombre%20de%20usuario%3A*%20F.%20Alamillo.%0A%20%0A*Contrase%F1a%3A*%20Alamillo_F567.%0A%20</text>
+        <text>*Nombre%3A%20*%20Francisco%20Alamillo.%0A%20%0A*Edad*%3A%2019%20-%2059%0A%20%0A*Nombre%20de%20usuario%3A*%20F.%20Alamillo.%0A%20%0A*Contrase%F1a%3A*%20Alamillo_F567.%0A%20%0A*Correo*%3A%20paco_Alamillo@hotmail.com%0A%20</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="812" y="341" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
