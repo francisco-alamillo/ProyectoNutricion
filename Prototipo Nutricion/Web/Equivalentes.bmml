@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1062" measuredH="442" mockupW="686" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="376" y="42" w="686" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="391" y="131" w="656" h="272" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>06/06/06</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="406" y="157" w="626" h="195" measuredW="597" measuredH="51" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipo%20de%20Alimento%2C%20Equivalente%2C%20Lunes%2C%20Martes%2C%20Miercoles%2C%20Jueves%2C%20Viernes%2C%20S%E1bado%2C%20Domingo%0AVerduras</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

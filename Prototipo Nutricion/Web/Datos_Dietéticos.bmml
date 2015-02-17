@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1134" measuredH="442" mockupW="758" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="376" y="42" w="758" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="376" y="115" w="758" h="301" measuredW="741" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Datos%20del%20paciente%2C%20Datos%20Diet%E9ticos%2C%20Datos%20antropom%E9tricos%2C%20Datos%20bioqu%EDmicos%2C%20Datos%20cl%EDnicos%2C%20Datos%20Alimentarios</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::DataGrid" x="460" y="161" w="590" h="195" measuredW="208" measuredH="201" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alimento%2C%20Frecuencia%2C%20Periodo%20%0AVerduras%2C%20%2Csemanal%0ACereales%2C%20%2C%20semanal%0ACarne%2C%20%2Csemanal%0AGrasas%2C%20%2Csemanal%0AAceites%2C%20%2Csemanal%0AL%E1cteos%2C%20%2Csemanal</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="182" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%20d%EDas%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="213" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%20d%EDas%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="243" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%20d%EDas%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="301" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%20d%EDas%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="270" w="71" h="-1" measuredW="64" measuredH="124" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>1%20d%EDas%0A2d%EDas%0A3%20d%EDas%0A4%20d%EDas%0A5%20d%EDas%0A6%20d%EDas%0A7%20d%EDas</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::ComboBox" x="655" y="332" w="-1" h="-1" measuredW="71" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%20d%EDas%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="737" y="373" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

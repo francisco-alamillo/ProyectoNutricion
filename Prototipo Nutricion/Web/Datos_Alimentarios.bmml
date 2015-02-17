@@ -1,0 +1,52 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1125" measuredH="438" mockupW="758" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="367" y="38" w="758" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="367" y="115" w="758" h="301" measuredW="741" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Primera%20Consulta_Datos%20de%20paciente%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%2CDatos_Diet%E9ticos%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%2CDatos_Antropom%E9tricos%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%2CDatos_Bioq%EDmicos%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%2CDatos_Clinicos%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%2CDatos_Alimentarios%26bm%3BDatos_Alimentarios.bmml%26bm%3BDatos_Alimentarios.bmml%26bm%3BDatos_Alimentarios.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C77%2C144%2C104%22%20href%3D%22Primera%2520Consulta_Datos%2520de%2520paciente.bmml%22%20alt%3D%22Primera%20Consulta_Datos%20de%20paciente%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22144%2C77%2C255%2C104%22%20href%3D%22Datos_Diet%25C3%25A9ticos.bmml%22%20alt%3D%22Datos_Diet%E9ticos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C77%2C403%2C104%22%20href%3D%22Datos_Antropom%25C3%25A9tricos.bmml%22%20alt%3D%22Datos_Antropom%E9tricos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22403%2C77%2C522%2C104%22%20href%3D%22Datos_Bioq%25C3%25ADmicos.bmml%22%20alt%3D%22Datos_Bioq%EDmicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22522%2C77%2C616%2C104%22%20href%3D%22Datos_Clinicos.bmml%22%20alt%3D%22Datos_Clinicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22616%2C77%2C739%2C104%22%20href%3D%22Datos_Alimentarios.bmml%22%20alt%3D%22Datos_Alimentarios%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>5</selectedIndex>
+        <text>Datos%20del%20paciente%2C%20Datos%20Diet%E9ticos%2C%20Datos%20antropom%E9tricos%2C%20Datos%20bioqu%EDmicos%2C%20Datos%20cl%EDnicos%2C%20Datos%20Alimentarios</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="449" y="167" w="-1" h="-1" measuredW="198" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFCuantas%20comidas%20realiza%20al%20d%EDa%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="449" y="188" w="-1" h="-1" measuredW="240" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFCantidad%20de%20agua%20que%20consume%20al%20d%EDa%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="449" y="209" w="-1" h="-1" measuredW="267" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFTiempo%20que%20tarda%20en%20consumir%20una%20comida%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="449" y="232" w="-1" h="-1" measuredW="263" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFRealiza%20comidas%20intermediarias%3F%20%28colaci%F3n%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="449" y="255" w="-1" h="-1" measuredW="198" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%BFRealiza%20alguna%20actividad%20f%EDsica%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="449" y="283" w="-1" h="-1" measuredW="450" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>antecedentes%20personales%20no%20patol%F3gicos%20%28h%E1bitos%20t%F3xicos%2C%20alcohol%2C%20tabaco%2C%u2026%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="737" y="373" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

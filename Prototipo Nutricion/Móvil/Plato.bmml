@@ -7,17 +7,17 @@
         <orientation>portrait</orientation>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="572" y="132" w="225" h="-1" measuredW="55" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="570" y="127" w="225" h="-1" measuredW="58" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
         <size>24</size>
-        <text>Taza</text>
+        <text>Plato</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="593" y="166" w="182" h="160" measuredW="1074" measuredH="976" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="596" y="169" w="177" h="164" measuredW="225" measuredH="225" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/taza.jpg</src>
+        <src>../assets/plato.jpg</src>
         <text/>
       </controlProperties>
     </control>
@@ -28,9 +28,9 @@
         <text>Regresar</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="626" y="331" w="100" h="95" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="611" y="329" w="153" h="58" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>120%20ml%0A10%20cm%20Alto%0A9%20cm%20Ancho</text>
+        <text>20%20cm%20diametro</text>
       </controlProperties>
     </control>
   </controls>

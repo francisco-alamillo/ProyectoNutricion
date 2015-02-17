@@ -17,7 +17,7 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="595" y="163" w="179" h="155" measuredW="181" measuredH="181" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/vaso.jpg</src>
+        <src>../assets/vaso.jpg</src>
         <text/>
       </controlProperties>
     </control>

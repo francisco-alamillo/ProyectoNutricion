@@ -7,30 +7,30 @@
         <orientation>portrait</orientation>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="570" y="132" w="225" h="-1" measuredW="123" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="572" y="132" w="225" h="-1" measuredW="139" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <bold>true</bold>
         <size>24</size>
-        <text>Cucharada</text>
+        <text>Cucharadita</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="597" y="159" w="174" h="152" measuredW="340" measuredH="340" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="589" y="174" w="190" h="154" measuredW="360" measuredH="360" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./assets/cuch.jpg</src>
+        <src>../assets/cucharadita.jpg</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="570" y="460" w="225" h="27" measuredW="78" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="570" y="460" w="225" h="27" measuredW="78" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Utensilios%20Base%26bm%3BUtensilios%20Base.bmml%26bm%3BUtensilios%20Base.bmml%26bm%3BUtensilios%20Base.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C460%2C252%2C487%22%20href%3D%22Utensilios%2520Base.bmml%22%20alt%3D%22Utensilios%20Base%22%20id%3D%224%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2227%2C460%2C252%2C487%22%20href%3D%22Utensilios%2520Base.bmml%22%20alt%3D%22Utensilios%20Base%22%20id%3D%223%22/%3E</map>
         <text>Regresar</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="605" y="305" w="158" h="71" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::List" x="612" y="325" w="127" h="76" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>2%20gr%0ADebe%20ser%20al%20ras</text>
+        <text>1%20gr%0ADebe%20ser%20al%20ras</text>
       </controlProperties>
     </control>
   </controls>
