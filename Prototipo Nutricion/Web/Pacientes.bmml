@@ -172,10 +172,10 @@
       <controlProperties>
         <bold>false</bold>
         <borderStyle>none</borderStyle>
-        <href>Recordatorio24H%26bm%3BRecordatorio24H.bmml%26bm%3BRecordatorio24H.bmml%26bm%3BRecordatorio24H.bmml</href>
+        <href>Equivalentes%26bm%3BEquivalentes.bmml%26bm%3BEquivalentes.bmml%26bm%3BEquivalentes.bmml</href>
         <icon>ListIcon%7Cxsmall</icon>
         <labelPosition>bottom</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C137%2C450%2C166%22%20href%3D%22Recordatorio24H.bmml%22%20alt%3D%22Recordatorio24H%22%20id%3D%2234%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22364%2C137%2C450%2C166%22%20href%3D%22Equivalentes.bmml%22%20alt%3D%22Equivalentes%22%20id%3D%2234%22/%3E</map>
         <size>11</size>
         <state>up</state>
         <text>Equivalentes</text>

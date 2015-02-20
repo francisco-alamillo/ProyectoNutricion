@@ -135,5 +135,12 @@
         <text>Distribuci%F3n%20general%3A%20%20%20%20%20%20Kcal</text>
       </controlProperties>
     </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="911" y="366" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Pacientes%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml</href>
+        <icon>JumpBackIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22535%2C324%2C567%2C356%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2228%22/%3E</map>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
