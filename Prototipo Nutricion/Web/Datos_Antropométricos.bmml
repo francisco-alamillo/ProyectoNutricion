@@ -5,52 +5,54 @@
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="376" y="115" w="758" h="301" measuredW="741" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
-      <controlProperties>
-        <hrefs>Primera%20Consulta_Datos%20de%20paciente%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%2CDatos_Diet%E9ticos%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%2CDatos_Antropom%E9tricos%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%2CDatos_Bioq%EDmicos%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%2CDatos_Clinicos%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%2CDatos_Alimentarios%26bm%3BDatos_Alimentarios.bmml%26bm%3BDatos_Alimentarios.bmml%26bm%3BDatos_Alimentarios.bmml</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C73%2C144%2C100%22%20href%3D%22Primera%2520Consulta_Datos%2520de%2520paciente.bmml%22%20alt%3D%22Primera%20Consulta_Datos%20de%20paciente%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22144%2C73%2C255%2C100%22%20href%3D%22Datos_Diet%25C3%25A9ticos.bmml%22%20alt%3D%22Datos_Diet%E9ticos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22255%2C73%2C403%2C100%22%20href%3D%22Datos_Antropom%25C3%25A9tricos.bmml%22%20alt%3D%22Datos_Antropom%E9tricos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22403%2C73%2C522%2C100%22%20href%3D%22Datos_Bioq%25C3%25ADmicos.bmml%22%20alt%3D%22Datos_Bioq%EDmicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22522%2C73%2C616%2C100%22%20href%3D%22Datos_Clinicos.bmml%22%20alt%3D%22Datos_Clinicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22616%2C73%2C739%2C100%22%20href%3D%22Datos_Alimentarios.bmml%22%20alt%3D%22Datos_Alimentarios%22%20id%3D%221%22/%3E</map>
-        <selectedIndex>2</selectedIndex>
-        <text>Datos%20del%20paciente%2C%20Datos%20Diet%E9ticos%2C%20Datos%20antropom%E9tricos%2C%20Datos%20bioqu%EDmicos%2C%20Datos%20cl%EDnicos%2C%20Datos%20Alimentarios</text>
-      </controlProperties>
-    </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="464" y="186" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="575" y="146" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Talla</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="464" y="207" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="575" y="167" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Peso%20Actual</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="464" y="232" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="575" y="192" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Peso%20habitual</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="464" y="255" w="-1" h="-1" measuredW="179" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="575" y="215" w="-1" h="-1" measuredW="179" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%EDndice%20de%20masa%20corporal%20%28IMC%29</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="464" y="276" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="575" y="236" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>circunferencia%20de%20la%20cintura</text>
       </controlProperties>
     </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="464" y="304" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="575" y="264" w="-1" h="-1" measuredW="161" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>circunferencia%20de%20la%20cadera</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="464" y="325" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="575" y="285" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>presi%F3n%20arterial</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="720" y="361" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="736" y="361" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Guardar</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="376" y="118" w="758" h="297" measuredW="200" measuredH="272" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hrefs>Primera%20Consulta_Datos%20de%20paciente%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%2CDatos_Antropom%E9tricos%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%2CDatos_Bioq%EDmicos%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%2CDatos_Clinicos%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%2CDatos_Diet%E9ticos%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%2CDatos_Calculos%26bm%3BDatos_Calculos.bmml%26bm%3BDatos_Calculos.bmml%26bm%3BDatos_Calculos.bmml%2CDatos_Estilos%20de%20vida%26bm%3BDatos_Estilos%20de%20vida.bmml%26bm%3BDatos_Estilos%20de%20vida.bmml%26bm%3BDatos_Estilos%20de%20vida.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C96%2C122%2C126%22%20href%3D%22Primera%2520Consulta_Datos%2520de%2520paciente.bmml%22%20alt%3D%22Primera%20Consulta_Datos%20de%20paciente%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C124%2C122%2C154%22%20href%3D%22Datos_Antropom%25C3%25A9tricos.bmml%22%20alt%3D%22Datos_Antropom%E9tricos%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C152%2C122%2C182%22%20href%3D%22Datos_Bioq%25C3%25ADmicos.bmml%22%20alt%3D%22Datos_Bioq%EDmicos%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C180%2C122%2C210%22%20href%3D%22Datos_Clinicos.bmml%22%20alt%3D%22Datos_Clinicos%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C208%2C122%2C238%22%20href%3D%22Datos_Diet%25C3%25A9ticos.bmml%22%20alt%3D%22Datos_Diet%E9ticos%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C236%2C122%2C266%22%20href%3D%22Datos_Calculos.bmml%22%20alt%3D%22Datos_Calculos%22%20id%3D%2211%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C264%2C122%2C294%22%20href%3D%22Datos_Estilos%2520de%2520vida.bmml%22%20alt%3D%22Datos_Estilos%20de%20vida%22%20id%3D%2211%22/%3E</map>
+        <position>left</position>
+        <selectedIndex>1</selectedIndex>
+        <text>Datos%20del%20paciente%0AA%0AB%0AC%0AD%0AC%E1lculos%0AEstilo%20de%20vida</text>
       </controlProperties>
     </control>
   </controls>

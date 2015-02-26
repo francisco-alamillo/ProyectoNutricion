@@ -46,100 +46,91 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::NumericStepper" x="532" y="178" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>3</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="413" y="209" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="413" y="209" w="-1" h="-1" measuredW="62" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <state>closed</state>
         <text>Fruta%0ACereal%20s/g</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="600" y="208" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="600" y="208" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="686" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="686" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="770" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="770" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="855" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="855" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="943" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="943" y="209" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::NumericStepper" x="532" y="210" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>5</text>
-      </controlProperties>
-    </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::ComboBox" x="413" y="237" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::ComboBox" x="413" y="237" w="-1" h="-1" measuredW="95" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <state>closed</state>
         <text>Cereal%20s/g</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="600" y="236" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="600" y="236" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="686" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="686" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::TextInput" x="770" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::TextInput" x="770" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="854" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="854" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="943" y="237" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextInput" x="943" y="241" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::NumericStepper" x="532" y="238" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>9</text>
-      </controlProperties>
-    </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="954" y="366" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="954" y="366" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
         <href>dietaMostrar%26bm%3BdietaMostrar.bmml%26bm%3BdietaMostrar.bmml%26bm%3BdietaMostrar.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22578%2C324%2C657%2C351%22%20href%3D%22dietaMostrar.bmml%22%20alt%3D%22dietaMostrar%22%20id%3D%2226%22/%3E</map>
         <text>Siguiente</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="637" y="366" w="-1" h="-1" measuredW="170" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="488" y="366" w="-1" h="-1" measuredW="384" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Distribuci%F3n%20general%3A%20%20%20%20%20%20Kcal</text>
+        <text>%20Gasto%20energetico%20total%20%3A%20%201800%20%20%20Distribuci%F3n%20general%3A%20%20%20%20%202000%20cal</text>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="911" y="366" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="911" y="366" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Pacientes%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml</href>
         <icon>JumpBackIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22535%2C324%2C567%2C356%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::ComboBox" x="514" y="183" w="71" h="-1" measuredW="38" measuredH="156" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+        <text>3%0A2%0A1%0A1/2%0A1/3%0A2/3%0A1/4%0A2/4%0A3/4</text>
       </controlProperties>
     </control>
   </controls>

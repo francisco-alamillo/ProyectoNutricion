@@ -1,0 +1,33 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	Documentacion/Documento De Requerimientos.docx
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 3 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   Apoyo/Alliimento.docx
+#	new file:   Apoyo/calculadora.xls
+#	new file:   Apoyo/equivalentes faciles (1).xls
+#	deleted:    Documentacion/Documento De Requerimientos.docx
+#	deleted:    "Documentos de Juntas/~$nuta de validaci\303\263n de prototipo_01.docx"
+#	new file:   Prototipo Nutricion.rar
+#	modified:   Prototipo Nutricion/Web/Datos_Clinicos.bmml
+#	modified:   "Prototipo Nutricion/Web/Datos_Diet\303\251ticos.bmml"
+#	modified:   Prototipo Nutricion/Web/Datos_Estilos de vida.bmml
+#	modified:   Prototipo Nutricion/Web/Primera Consulta_Datos de paciente.bmml
+#
+

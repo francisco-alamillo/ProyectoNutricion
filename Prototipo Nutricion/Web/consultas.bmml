@@ -10,9 +10,9 @@
         <text>15/01/2105%20</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="457" y="145" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="457" y="145" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Consultas%3A</text>
+        <text>Agenda%3A%20%3A</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::List" x="457" y="166" w="388" h="175" measuredW="100" measuredH="174" zOrder="3" locked="false" isInGroup="-1">

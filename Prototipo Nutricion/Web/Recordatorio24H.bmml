@@ -16,11 +16,11 @@
         <text>Platillo%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Alimento%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Equivalente%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Carboidratos%2C%20Proteinas%2C%20L%EDpidos</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="897" y="367" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="765" y="364" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Pacientes%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml</href>
         <icon>JumpBackIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22730%2C325%2C762%2C357%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2218%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22598%2C322%2C630%2C354%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2218%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="415" y="185" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
@@ -138,11 +138,18 @@
         <text>4gr</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="958" y="367" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="958" y="367" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Pacientes%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml%26bm%3BPacientes.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22791%2C325%2C870%2C352%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2247%22/%3E</map>
-        <text>Siguiente</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22791%2C325%2C862%2C352%22%20href%3D%22Pacientes.bmml%22%20alt%3D%22Pacientes%22%20id%3D%2247%22/%3E</map>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Button" x="843" y="367" w="-1" h="-1" measuredW="102" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Historial_24H%26bm%3BHistorial_24H.bmml%26bm%3BHistorial_24H.bmml%26bm%3BHistorial_24H.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22676%2C325%2C778%2C352%22%20href%3D%22Historial_24H.bmml%22%20alt%3D%22Historial_24H%22%20id%3D%2248%22/%3E</map>
+        <text>Ver%20%20Historial%20</text>
       </controlProperties>
     </control>
   </controls>

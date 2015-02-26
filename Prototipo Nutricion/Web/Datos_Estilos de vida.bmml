@@ -1,0 +1,80 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1134" measuredH="442" mockupW="758" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="376" y="42" w="758" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="376" y="118" w="758" h="297" measuredW="200" measuredH="272" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hrefs>Primera%20Consulta_Datos%20de%20paciente%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%26bm%3BPrimera%20Consulta_Datos%20de%20paciente.bmml%2CDatos_Antropom%E9tricos%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%26bm%3BDatos_Antropom%E9tricos.bmml%2CDatos_Bioq%EDmicos%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%26bm%3BDatos_Bioq%EDmicos.bmml%2CDatos_Clinicos%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%26bm%3BDatos_Clinicos.bmml%2CDatos_Diet%E9ticos%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%26bm%3BDatos_Diet%E9ticos.bmml%2CDatos_Calculos%26bm%3BDatos_Calculos.bmml%26bm%3BDatos_Calculos.bmml%26bm%3BDatos_Calculos.bmml%2CDatos_Estilos%20de%20vida%26bm%3BDatos_Estilos%20de%20vida.bmml%26bm%3BDatos_Estilos%20de%20vida.bmml%26bm%3BDatos_Estilos%20de%20vida.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C96%2C122%2C126%22%20href%3D%22Primera%2520Consulta_Datos%2520de%2520paciente.bmml%22%20alt%3D%22Primera%20Consulta_Datos%20de%20paciente%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C124%2C122%2C154%22%20href%3D%22Datos_Antropom%25C3%25A9tricos.bmml%22%20alt%3D%22Datos_Antropom%E9tricos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C152%2C122%2C182%22%20href%3D%22Datos_Bioq%25C3%25ADmicos.bmml%22%20alt%3D%22Datos_Bioq%EDmicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C180%2C122%2C210%22%20href%3D%22Datos_Clinicos.bmml%22%20alt%3D%22Datos_Clinicos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C208%2C122%2C238%22%20href%3D%22Datos_Diet%25C3%25A9ticos.bmml%22%20alt%3D%22Datos_Diet%E9ticos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C236%2C122%2C266%22%20href%3D%22Datos_Calculos.bmml%22%20alt%3D%22Datos_Calculos%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C264%2C122%2C294%22%20href%3D%22Datos_Estilos%2520de%2520vida.bmml%22%20alt%3D%22Datos_Estilos%20de%20vida%22%20id%3D%221%22/%3E</map>
+        <position>left</position>
+        <selectedIndex>6</selectedIndex>
+        <text>Datos%20del%20paciente%0AA%0AB%0AC%0AD%0AC%E1lculos%0AEstilo%20de%20vida</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="652" y="133" w="-1" h="-1" measuredW="309" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Antecedentes%20penales%20no%20pat%F3logicos</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RadioButton" x="555" y="164" w="-1" h="-1" measuredW="54" measuredH="22" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fumar</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::RadioButton" x="555" y="186" w="-1" h="-1" measuredW="126" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bebids%20alcoh%F3licas</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::RadioButton" x="555" y="208" w="-1" h="-1" measuredW="75" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Farmacos</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RadioButton" x="555" y="231" w="-1" h="-1" measuredW="133" measuredH="22" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Come%20alguna%20droga</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::RadioButton" x="575" y="251" w="-1" h="-1" measuredW="77" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marihuana</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::RadioButton" x="661" y="251" w="-1" h="-1" measuredW="54" measuredH="22" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Piedra</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::RadioButton" x="722" y="251" w="-1" h="-1" measuredW="65" measuredH="22" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Coca%EDna</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::RadioButton" x="555" y="273" w="-1" h="-1" measuredW="152" measuredH="22" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Practica%20alg%FAn%20deporte</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::RadioButton" x="575" y="295" w="-1" h="-1" measuredW="52" measuredH="22" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>F%FAtbol</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::RadioButton" x="661" y="295" w="-1" h="-1" measuredW="48" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tenis</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::RadioButton" x="722" y="295" w="-1" h="-1" measuredW="58" measuredH="22" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Beisbol</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
