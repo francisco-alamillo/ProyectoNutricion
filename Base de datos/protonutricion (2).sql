@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 01, 2015 at 05:46 AM
+-- Generation Time: Apr 20, 2015 at 03:51 PM
 -- Server version: 5.6.16
 -- PHP Version: 5.5.11
 
@@ -72,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `datos_antropometricos` (
 
 CREATE TABLE IF NOT EXISTS `datos_base` (
   `idPaciente` int(11) NOT NULL AUTO_INCREMENT,
-  `nombrePaciente` varchar(50) NOT NULL,
+  `nombrePaciente` varchar(150) NOT NULL,
   `edad` int(11) NOT NULL,
   `sexo` int(11) NOT NULL,
   `fechaNacimiento` varchar(9) NOT NULL,
