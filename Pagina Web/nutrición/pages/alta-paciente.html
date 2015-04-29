@@ -113,10 +113,70 @@
                     <div class="col-lg-12">
                         <h1 class="page-header">Pacientes</h1>
                     </div>
-
                     <!-- /.col-lg-12 -->
                 </div>
-                <!-- /.row -->
+                <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Datos Base
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <form role="form">
+                                        <div class="form-group">
+                                            <label>Nombre: </label>
+                                            <input class="form-control" id="nombrePaciente" required placeholder="Nombre completo">
+                                            <label>Edad: </label>
+                                            <input class="form-control" id="edadPaciente" required>
+                                            <label>Sexo: </label>
+                                            <div class="radio">
+                                                <label>
+                                                    <input type="radio" name="sexo" id="sexoMasculino" required value="option1" checked>Masculino
+                                                </label>
+                                            </div>
+                                            <div class="radio">
+                                                <label>
+                                                    <input type="radio" name="sexo" id="sexoFemenino" required value="option2">Femenino
+                                                </label>
+                                            </div>
+                                            <label>Fecha de nacimiento: </label>
+                                            <input class="form-control" id="edadPaciente" required placeholder="DDMMMAA">
+                                            <label>Estado civil: </label>
+                                            <select class="form-control" name="civil" required id="estadoCivil">
+                                                <option>Soltero(a)</option>
+                                                <option>Casado(a)</option>
+                                                <option>Divorciado(a)</option>
+                                                <option>Viudo(a)</option>
+                                            </select>
+                                            <label>Escolaridad: </label>
+                                            <select class="form-control" name="escolaridad" required id="gradoEscolar">
+                                                <option>Primaria</option>
+                                                <option>Secundaria</option>
+                                                <option>Preparatoria</option>
+                                                <option>Licenciatura</option>
+                                                <option>Maestría</option>
+                                                <option>Doctorado</option>
+                                            </select>
+                                            <label>Ocupación: </label>
+                                            <input class="form-control" required id="ocupacion">
+                                            <label>Dirección: </label>
+                                            <input class="form-control" required id="direccion" placeholder="Calle, #num, Fraccionamiento/Colonia">
+                                            <label>Teléfono: </label>
+                                            <input class="form-control" required id="telefono">
+                                            <label>email: </label>
+                                            <input class="form-control" id="correo" required placeholder="user@example.com">
+                                            <label>Motivo de la consulta: </label>
+                                            <textarea class="form-control" rows="3" required id="motivoConsulta"></textarea>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Continuar</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- /.container-fluid -->
         </div>

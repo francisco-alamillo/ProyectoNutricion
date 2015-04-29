@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Nutrición</title>
+    <title>Pacientes</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -17,14 +17,8 @@
     <!-- MetisMenu CSS -->
     <link href="../bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
 
-    <!-- Timeline CSS -->
-    <link href="../dist/css/timeline.css" rel="stylesheet">
-
     <!-- Custom CSS -->
     <link href="../dist/css/sb-admin-2.css" rel="stylesheet">
-
-    <!-- Morris Charts CSS -->
-    <link href="../bower_components/morrisjs/morris.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="../bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -42,7 +36,7 @@
 
     <div id="wrapper">
 
-       <!-- Navigation -->
+        <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -112,24 +106,42 @@
             <!-- /.navbar-static-side -->
         </nav>
 
+        <!-- Page Content -->
         <div id="page-wrapper">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h1 class="page-header">Nutrición</h1>
-                </div>
-                <!-- /.col-lg-12 -->
-            </div>
-            
-                        
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1 class="page-header">Agregar paciente</h1>
                     </div>
-                    <!-- /.panel .chat-panel -->
+                    <div class="panel-body">
+                        <form role="form" >
+                        <div class="form-group">
+                           <label>Nombre: </label>
+                           <input class="form-control" name="">
+
+                           <label>Edad: </label>
+                           <input class="form-control">
+
+                           <label>Talla: </label>
+                           <input class="form-control">
+
+                           <label>Dirección: </label>
+                           <input class="form-control">
+
+                           <label>Correo: </label>
+                           <input class="form-control">
+                           </br>
+                           <center><button type="submit" class="btn btn-outline btn-primary btn-lg">Agregar paciente</button></center>
+                        </div>
+                        </form>
+                    </div>
+                    <!-- /.col-lg-12 -->
                 </div>
-                <!-- /.col-lg-4 -->
+                <!-- /.row -->
             </div>
-            <!-- /.row -->
+            <!-- /.container-fluid -->
         </div>
         <!-- /#page-wrapper -->
-
     </div>
     <!-- /#wrapper -->
 
@@ -141,11 +153,6 @@
 
     <!-- Metis Menu Plugin JavaScript -->
     <script src="../bower_components/metisMenu/dist/metisMenu.min.js"></script>
-
-    <!-- Morris Charts JavaScript -->
-    <script src="../bower_components/raphael/raphael-min.js"></script>
-    <script src="../bower_components/morrisjs/morris.min.js"></script>
-    <script src="../js/morris-data.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="../dist/js/sb-admin-2.js"></script>
