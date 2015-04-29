@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 28-04-2015 a las 01:41:49
+-- Tiempo de generación: 30-04-2015 a las 00:03:06
 -- Versión del servidor: 5.6.21
 -- Versión de PHP: 5.6.3
 
@@ -237,6 +237,36 @@ CREATE TABLE IF NOT EXISTS `estilo_vida` (
   `duracion` int(11) NOT NULL,
   `veces_x_semana` int(11) NOT NULL,
   `probemas_para_actividadFisica` varchar(150) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `indicadores_bioquimicos`
+--
+
+CREATE TABLE IF NOT EXISTS `indicadores_bioquimicos` (
+  `id_paciente` int(11) NOT NULL,
+  `Leucocitos` varchar(10) NOT NULL,
+  `Transferrina` varchar(10) NOT NULL,
+  `Proteinas_totales` varchar(10) NOT NULL,
+  `Glucosa_embarazo` varchar(10) DEFAULT NULL,
+  `Urea` varchar(10) NOT NULL,
+  `Acido_urico` varchar(10) NOT NULL,
+  `Creatinina_embarazo` varchar(10) DEFAULT NULL,
+  `TGP_y_TGO` varchar(10) NOT NULL,
+  `Nitrogeno_de_urea_serico` varchar(10) NOT NULL,
+  `Sodio` varchar(10) NOT NULL,
+  `Potasio` varchar(10) NOT NULL,
+  `Fosforo` varchar(10) NOT NULL,
+  `calcio` varchar(10) NOT NULL,
+  `Colesterol` varchar(10) NOT NULL,
+  `Trigliceridos` varchar(10) NOT NULL,
+  `Magnesio` varchar(10) NOT NULL,
+  `Cloro` varchar(10) NOT NULL,
+  `Hemoglobina` varchar(10) NOT NULL,
+  `Hierro_serico` varchar(10) NOT NULL,
+  `Ferritina` varchar(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
